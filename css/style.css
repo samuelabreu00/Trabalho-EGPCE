@@ -1,0 +1,124 @@
+.none {
+    list-style-type: none;
+}
+
+.SaibaMaisCaixa {
+    margin-bottom: 1.30em;
+}
+
+.ImportanteCaixa {
+    margin-bottom: 1.30em;
+}
+
+.AtividadeCaixa {
+    margin-bottom: 1.30em;
+}
+
+.FiqueAtentoCaixa {
+    margin-bottom: 1.30em;
+}
+
+.CuriosidadeCaixa {
+    margin-bottom: 1.30em;
+}
+
+.ExemploCaixa {
+    margin-bottom: 1.30em;
+}
+
+.PratiqueCaixa {
+    margin-bottom: 1.30em;
+}
+
+.DuvidaCaixa {
+    margin-bottom: 1.30em;
+}
+
+.ReflitaCaixa {
+    margin-bottom: 1.30em;
+}
+
+
+/* TABELA ADICIONAIS */
+
+.Thteste {
+    background: #44833d;
+    border: solid 1px #44833d;
+    border-bottom: solid 5px #44833d;
+    color: white;
+    text-align: center;
+}
+
+.Tdborda {
+    border: solid 1px #44833d;
+    text-align: center;
+}
+
+.BCorEad {
+    Background: #4885AE;
+}
+
+.textmiddle {
+    vertical-align: middle!important;
+    text-align: center!important;
+}
+
+.efeito-grow:hover, .efeito-grow:focus, .efeito-grow:active {
+    -webkit-transform: scale(1.1);
+    transform: scale(1.1);
+}
+.sidebar-item{
+    padding: 0 .5rem;
+    margin-left: -1rem !important;
+    position: relative;
+}
+.sidebar-item .sidebar-sub{
+    position: relative;
+    z-index: 10;
+    color: #000 ;
+    font-weight: bold;
+}
+.sidebar-item .item-one{
+    margin-top: 1rem;
+}
+.sidebar-item .sidebar-sub:hover{
+    transition: .1s !important;
+    color: rgba(0, 0, 0, 0.61);
+    margin-left: 4px;
+}
+.sidebar-item .sublinks1{
+    margin-top: 3rem;
+    transition: .3s;
+}
+.sidebar-item:hover .sublinks{
+    margin-top: -.1rem;
+}
+.has-sub{
+    height: 7.2rem;
+    overflow: hidden;
+    transition: .4s;
+    text-decoration: none;
+}
+.has-sub2_1{
+    height: 6rem;
+}
+/* .has-sub:hover{
+    height: 26rem;
+}
+.has-sub1{
+    height: 7rem;
+}
+.has-sub2{
+    height: 7.5rem;
+    transition: .4s;
+}
+.has-sub2_1:hover{
+    height: 27rem;
+    transition: .4s;
+}
+.has-sub3:hover{
+    height: 47rem;
+}
+.has-sub4:hover{
+    height: 47rem;
+} */

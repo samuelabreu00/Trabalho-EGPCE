@@ -1,0 +1,11 @@
+
+
+.none {
+        list-style-type: none;
+}
+
+.BordaTabela {
+        background-color: var(VerdeEstadoEscuro);
+        border: solid 2px var(VerdeEstadoEscuro);
+        padding: 1em;
+}
